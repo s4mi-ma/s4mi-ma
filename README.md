@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Sami 👋
 
-<!--
-**s4mi-ma/s4mi-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st year Engineering Student — **Digital & AI in Healthcare** 
+Passionate about everything concerning IT. Currently learning, building, and exploring.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages:** Python · C   
+
+---
+
+*Documenting my journey 🌱*
